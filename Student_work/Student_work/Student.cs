@@ -29,7 +29,7 @@ namespace Student_work
                 ves += 0.5 * (eda * 1000 - 1800) / 1000;
             }
             else
-                ves += eda;
+                return;
         }
     }
 }
