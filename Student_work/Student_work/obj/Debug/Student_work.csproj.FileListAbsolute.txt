@@ -1,0 +1,11 @@
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\bin\Debug\Student_work.exe.config
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\bin\Debug\Student_work.exe
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\bin\Debug\Student_work.pdb
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\obj\Debug\Student_work.csproj.AssemblyReference.cache
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\obj\Debug\Student_work.csproj.SuggestedBindingRedirects.cache
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\obj\Debug\Student_work.Form1.resources
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\obj\Debug\Student_work.Properties.Resources.resources
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\obj\Debug\Student_work.csproj.GenerateResource.cache
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\obj\Debug\Student_work.csproj.CoreCompileInputs.cache
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\obj\Debug\Student_work.exe
+C:\Users\Stepan\Desktop\Student_work\Student_work\Student_work\obj\Debug\Student_work.pdb
